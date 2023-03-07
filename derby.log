@@ -1,4 +1,5 @@
 Mon Mar 06 22:56:30 COT 2023 Thread[Thread-5,5,main] Cleanup action starting
+
 ERROR XBM0X: Supplied locale description 'es_419' is invalid, expecting ln[_CO[_variant]]
 ln=lower-case two-letter ISO-639 language code, CO=upper-case two-letter ISO-3166 country codes, see java.util.Locale.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
